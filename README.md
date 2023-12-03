@@ -5,21 +5,17 @@ Overview
 The Tax Calculator is a simple command-line application written in Python. It calculates annual income tax based on user input, considering both federal and provinces taxes for Canada.
 
 How to Run
-Requirements:
+  1. Requirements:
+    Make sure you have Python installed on your system.
 
-Make sure you have Python installed on your system.
-Clone the Repository:
+  2. Clone the Repository:
+    git clone https://github.com/Akki_8901/tax-calculator.git
+    cd tax-calculator
 
-bash
-Copy code
-git clone https://github.com/Akki_8901/tax-calculator.git
-cd tax-calculator
-Run the Program:
+  3. Run the Program:
+    python tax_calculator.py
+  Follow the prompts to enter your annual income and province.
 
-bash
-Copy code
-python tax_calculator.py
-Follow the prompts to enter your annual income and province.
 
 Sample Scenarios
 Scenario 1: Standard Input
