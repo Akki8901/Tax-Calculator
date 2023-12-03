@@ -12,7 +12,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/tax-calculator.git
+git clone https://github.com/Akki_8901/tax-calculator.git
 cd tax-calculator
 Run the Program:
 
