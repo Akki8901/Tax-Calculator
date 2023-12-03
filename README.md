@@ -2,7 +2,7 @@
 
 Tax Calculator
 Overview
-The Tax Calculator is a simple command-line application written in Python. It calculates annual income tax based on user input, considering both federal and state (province) taxes for Canada.
+The Tax Calculator is a simple command-line application written in Python. It calculates annual income tax based on user input, considering both federal and provinces taxes for Canada.
 
 How to Run
 Requirements:
